@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/书籍数量-300+-brightgreen.svg" alt="Books Count">
   <img src="https://img.shields.io/github/stars/Happleasei/PDFBook?style=social" alt="Stars">
   <img src="https://img.shields.io/github/forks/Happleasei/PDFBook?style=social" alt="Forks">
+  <br>
+    <img src="https://img.shields.io/badge/状态-持续更新ing-orange.svg" alt="持续更新ing">
 </div>
 
 ## 🔍 项目简介
