@@ -1,4 +1,4 @@
-# 📚 计算机类书籍PDF分享仓库
+# 📚 计算机类书籍分享仓库（PDFBook)
 
 <div align="center">
   <img src="https://img.shields.io/badge/书籍数量-300+-brightgreen.svg" alt="Books Count">
